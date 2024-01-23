@@ -1,2 +1,1 @@
-# Wine-quality-analysis
-The quality of wine is varied based on its chemical composition. There are two varities of wines based on its colour as Red and White wines, some of the important factors decides the quality of wine.
+The quality of wine is varied based on its chemical composition. There are two varities of wines based on its colour as Red and White wines, some of the important factors decides the quality of wine. We will analyse the quality factor and categorize each, the suitable range of factors for better quality. We will find the best level of product’s composition in the given data as per the analysis using charts, scatterplot matrice, correlation, log, summary, mean and some required functions and conclude the result.
